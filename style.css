@@ -1,0 +1,85 @@
+/***********************************************
+  Css for whole website
+ ***********************************************/
+ 
+body {
+	margin: 0px;
+	background-color: #31424B;
+	font-family: DFChuW4-B5;
+	line-height: 1.8em;
+}
+
+.wrapper {
+	width: 720px;
+	height: 1840px;
+	background-image: url("img/bg.png");
+	margin: auto;
+	color: #001D2A;
+	padding: 130px 90px;
+	font-size: 1.2em;
+}
+
+.box {
+	margin: 30px;
+}
+
+.box-header {
+	text-align: center;
+}
+
+.box-title {
+	font-size: 1.5em;
+	font-weight: bold;
+	margin-top: -8px;
+}
+
+.box-content {
+	margin-top: 10px
+}
+
+.box-footer {
+	margin-top: -40px;
+	margin-left: auto;
+	margin-right: 0;
+	display: flex;
+	justify-content: flex-end;
+}
+
+.row {
+	display: flex;
+	justify-content: space-around;
+	text-align: center;
+}
+
+.col-4 {
+	width: 25%;
+}
+
+.flip {
+	-moz-transform: scale(-1, 1);
+	-webkit-transform: scale(-1, 1);
+	-o-transform: scale(-1, 1);
+	-ms-transform: scale(-1, 1);
+	transform: scale(-1, 1);
+}
+
+.mid-img {
+	height: 154px;
+}
+
+.title {
+	width: 40%;
+	margin-left: 30px;
+}
+
+.icon {
+	position: relative;
+	height: 34px;
+	top: 8px;
+	margin-right: -4px;
+}
+
+.creator {
+	margin-left: 10px;
+	margin-top: auto;
+}
