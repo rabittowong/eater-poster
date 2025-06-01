@@ -1,10 +1,10 @@
-# Easter Poster
+# Eater Poster
 
 ## Overview
 
-The Easter Poster is a pure HTML and CSS project designed to create an eye-catching recruitment poster for a guild
+The Eater Poster is a pure HTML and CSS project designed to create an eye-catching recruitment poster for a guild
 in the popular MMORPG Black Desert Online. This poster is themed around the Easter season and aims to attract new
-members to join the guild with a visually appealing and interactive design.
+members to join the guild Eater with a visually appealing and interactive design.
 
 ## Features
 
@@ -26,17 +26,21 @@ members to join the guild with a visually appealing and interactive design.
 
 ## Usage
 
-1. **Customize the Content**:
+1. **Customize the Content**
     - Open `index.html` in a text editor to modify the guild name, description, requirements, or any other text
     - Adjust the colors, images, or styling in the `style.css` file to match your guild's theme
 
-2. **Deploy the Poster**:
+2. **Deploy the Poster**
     - Share the `index.html` file directly with potential recruits
     - Host the project on a web server (e.g., GitHub Pages, Netlify) for online access
 
-3. **Print or Share Digitally**:
+3. **Print or Share Digitally**
     - Use the poster as a digital recruitment tool in forums, social media, or guild websites
     - Print the poster for in-game events or community boards
+
+## Demo
+
+![poster-r3.png](poster-r3.png)
 
 ## Disclaimer
 
